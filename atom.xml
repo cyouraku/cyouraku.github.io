@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Crawlery</title>
+  
+  <subtitle>my medical news crawler site</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-11-28T04:14:06.606Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Tim Zhang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>肺の除神経治療がCOPD患者の症状改善に有効</title>
+    <link href="http://yoursite.com/2018/11/28/medical-news-191008/"/>
+    <id>http://yoursite.com/2018/11/28/medical-news-191008/</id>
+    <published>2018-11-28T02:20:00.000Z</published>
+    <updated>2018-11-28T04:14:06.606Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="肺の除神経治療がCOPD患者の症状改善に有効"><a href="#肺の除神経治療がCOPD患者の症状改善に有効" class="headerlink" title="肺の除神経治療がCOPD患者の症状改善に有効"></a>肺の除神経治療がCOPD患者の症状改善に有効</h2><p>標的を定めた肺の除神経（TLD）治療により、慢性閉塞性肺疾患（COPD）患者の症状が50％以上軽減することが、欧州呼吸器学会（ERS 2018、9月28日～10月2日、パリ）で発表された。</p><p>フローニンゲン大学医療センター（オランダ）のDirk-Jan Slebos氏らは、欧州6カ国のCOPD患者82人を対象にTLDまたは偽治療を実施。TLD群では、気管支鏡を用い肺にカテーテルを挿入し、カテーテルから気道の外側の神経に電気を送り、神経機能を変化させた。これで気道が弛緩して拡張し、粘液が減少して気道壁の炎症も軽減する。その後、カテーテルと気管支鏡は抜去された。</p><p>その結果、治療開始から6週後までに、偽治療群の71％に深刻な急性増悪がみられたが、TLD群では32％であった。1年以内に呼吸器合併症で入院した患者数は、偽治療群に比べTLD群は半数未満。TLD群で死亡例はみられず、一部に副作用がみられたが6カ月以内に消失した。</p><p>（HealthDay News 2018年9月18日）</p><p>News release：</p><p>(<a href="https://www.ersnet.org/the-society/news/copd-patients-suffer-fewer-respiratory-related-problems-when-treated-with-targeted-lung-denervation" target="_blank" rel="noopener">https://www.ersnet.org/the-society/news/copd-patients-suffer-fewer-respiratory-related-problems-when-treated-with-targeted-lung-denervation</a>)</p><p>Copyright © 2018 HealthDay. All rights reserved.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;肺の除神経治療がCOPD患者の症状改善に有効&quot;&gt;&lt;a href=&quot;#肺の除神経治療がCOPD患者の症状改善に有効&quot; class=&quot;headerlink&quot; title=&quot;肺の除神経治療がCOPD患者の症状改善に有効&quot;&gt;&lt;/a&gt;肺の除神経治療がCOPD患者の症状改善に
+      
+    
+    </summary>
+    
+      <category term="medical_news" scheme="http://yoursite.com/categories/medical-news/"/>
+    
+    
+      <category term="medical_news" scheme="http://yoursite.com/tags/medical-news/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>偏食が抑うつ招く</title>
+    <link href="http://yoursite.com/2016/11/27/medical-news-190945/"/>
+    <id>http://yoursite.com/2016/11/27/medical-news-190945/</id>
+    <published>2016-11-27T01:41:00.000Z</published>
+    <updated>2018-11-28T04:13:44.702Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="偏食が抑うつ招く-バランス良い食事を"><a href="#偏食が抑うつ招く-バランス良い食事を" class="headerlink" title="偏食が抑うつ招く バランス良い食事を"></a>偏食が抑うつ招く バランス良い食事を</h2><p>偏食が抑うつ招くバランス良い食事を厚生労働省の調べによると、うつ病などの気分障害の患者数は２０１４年には１１１万６０００人に上り、増加傾向にある。従来、人間関係や環境の変化といった外的要因が関係するとされてきたが、最近では、食事の偏りも原因の一つだと考えられるようになってきている。国立国際医療研究セ</p><div align="center"><a href="https://medical.jiji.com/topics/790" target="_blank" rel="noopener">続き読む</a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;偏食が抑うつ招く-バランス良い食事を&quot;&gt;&lt;a href=&quot;#偏食が抑うつ招く-バランス良い食事を&quot; class=&quot;headerlink&quot; title=&quot;偏食が抑うつ招く バランス良い食事を&quot;&gt;&lt;/a&gt;偏食が抑うつ招く バランス良い食事を&lt;/h2&gt;&lt;p&gt;偏食が抑うつ
+      
+    
+    </summary>
+    
+      <category term="medical_news" scheme="http://yoursite.com/categories/medical-news/"/>
+    
+    
+      <category term="medical_news" scheme="http://yoursite.com/tags/medical-news/"/>
+    
+  </entry>
+  
+</feed>
